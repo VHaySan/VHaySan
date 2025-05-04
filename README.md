@@ -10,7 +10,6 @@
 
 -(Learning: React,Tailwindcss, Node.js)-
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHaySan&layout=donut&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 VHaySan/VHaySan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
