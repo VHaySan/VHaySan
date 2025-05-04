@@ -10,7 +10,10 @@
 
 -(Learning: React,Tailwindcss, Node.js)-
 
+## 📈 **GitHub Stats**
 
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=VHaySan&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VHaySan&theme=dark&include_all_commits=true)](https://git.io/streak-stats)
 <!---
 VHaySan/VHaySan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
