@@ -10,10 +10,10 @@
 -(Learning: React,Tailwindcss, Node.js)-
 
 
-[[GitHub Streak](https://streak-stats.demolab.com?user=VHaySan&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=VHaySan&theme=dark)]
 
 
-[[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VHaySan&layout=compact&theme=dark&hide=html)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VHaySan&layout=compact&theme=dark&hide=html)]
 <!---
 VHaySan/VHaySan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
