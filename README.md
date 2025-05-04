@@ -10,7 +10,7 @@
 -(Learning: React,Tailwindcss, Node.js)-
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=VHaySan&theme=dark)]
 
 <!---
 VHaySan/VHaySan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
