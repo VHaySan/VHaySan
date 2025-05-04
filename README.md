@@ -2,7 +2,7 @@
 - 🎓 Msc Computer Science Graduate(2024)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi!+I'm+[Your+Name]👋;Python+%7C+JavaScript+%7C+C%23;Learning+React+%26+Tailwind+🔥;Building+Things+That+Matter+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi!+I'm+[VHaySan]👋;Python+%7C+JavaScript+%7C+C%23;Learning+React+%26+Tailwind+🔥;Building+Things+That+Matter+🚀" alt="Typing animation" />
 </div>
 
 --- 🛠️ Tech Stack ---
