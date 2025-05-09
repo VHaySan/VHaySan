@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VingHay
 - Software/Full-Stack Developer
 - 🎓 Msc Computer Science Graduate(2024)
-- and I'm passionate about building applications.
+- I'm passionate about building applications.
 
 --- 🛠️ Tech Stack ---
 
