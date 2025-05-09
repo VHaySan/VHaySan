@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @VHaySan
+- 👋 Hi, I’m VingHay
+- Software/Full-Stack Developer
 - 🎓 Msc Computer Science Graduate(2024)
+- and I'm passionate about building applications.
 
 --- 🛠️ Tech Stack ---
 
@@ -10,6 +12,8 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?logo=tailwind-css)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 -(Learning: React,Tailwindcss, Node.js)-
 
